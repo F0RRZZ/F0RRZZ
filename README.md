@@ -1,1 +1,1 @@
-[![codewars](https://www.codewars.com/users/_forzz_/badges/large)](https://www.codewars.com/users/_forzz_) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F0RRZZ&theme=solarized_dark)
