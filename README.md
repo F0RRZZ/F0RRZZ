@@ -1,5 +1,18 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F0RRZZ&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F0RRZZ&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F0RRZZ&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F0RRZZ&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F0RRZZ&theme=solarized_dark)
+### Hi, I'm Marat 👋    
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=F0RRZZ&show_icons=true" alt="F0RRZZ" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RRZZ&layout=compact&hide=html" alt="F0RRZZ" /></p>
+
+<br>
+
+---
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" wigth="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" wigth="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="flask" wigth="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" wigth="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" wigth="40" height="40"/>&nbsp;  
