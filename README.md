@@ -2,8 +2,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=F0RRZZ&show_icons=true" alt="F0RRZZ" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0RRZZ&layout=compact&hide=html" alt="F0RRZZ" /></p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=F0RRZZ)](https://github.com/F0RRZZ/github-readme-stats)
+
 
 <br>
 
