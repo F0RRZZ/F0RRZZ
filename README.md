@@ -2,7 +2,7 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=F0RRZZ)](https://github.com/F0RRZZ/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=F0RRZZ&show_icons=true&theme=dracula)
 
 
 <br>
